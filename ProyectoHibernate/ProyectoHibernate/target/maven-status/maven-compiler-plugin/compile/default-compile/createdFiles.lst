@@ -1,0 +1,9 @@
+com\desarrollo\proyectohibernate\HelloApplication.class
+com\desarrollo\proyectohibernate\HelloController.class
+com\desarrollo\proyectohibernate\database\JPAUtil.class
+com\desarrollo\proyectohibernate\model\Libro.class
+com\desarrollo\proyectohibernate\Launcher.class
+com\desarrollo\proyectohibernate\dao\LibroDAO.class
+module-info.class
+com\desarrollo\proyectohibernate\controller\LibroController.class
+com\desarrollo\proyectohibernate\BibliotecaApplication.class
